@@ -4,7 +4,7 @@ class Waluty {
     double pln;
 
     void usd_to_eur() {
-        System.out.println(usd / 1.05);
+        System.out.println(usd / 1.07);
     }
 
     void pln_to_usd() {
