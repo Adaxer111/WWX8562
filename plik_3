@@ -28,7 +28,7 @@ class Waluty {
 public class zad2 {
     public static void main(String[] args) {
 
-        Waluty eur_usd = new Waluty(1, 1);
+        Waluty eur_usd = new Waluty(1,1);
         Waluty pln_zl = new Waluty(1);
 
         eur_usd.usd_to_eur();
