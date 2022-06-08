@@ -35,7 +35,7 @@ class samochody
 
 }
 
-class audi extends samochod
+class audi extends samochody
 {
 
     protected double silnik;
