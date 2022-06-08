@@ -5,7 +5,7 @@ gazeta(String nazwa, double cena){
     this.nazwa=nazwa;
     this.cena=cena;
 }
-
+public void info()
 {
     System.out.println("Nazwa gazety "+nazwa);
     System.out.println("Cena gazety "+cena+"pln");
