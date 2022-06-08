@@ -14,7 +14,7 @@ public double getCena(){return cena;}
     public String getNazwa(){return nazwa;}
 }
 
-class gazetki extends gazeta
+class newspaper extends gazeta
 {
     protected String wydawnictwo;
     protected String gatunek;
